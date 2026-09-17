@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="5YTgCrU--5EmFaXP00Ir">
+    <mxGraphModel dx="1022" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fmehxJq_DwajHRdsBFVi-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=8 8;perimeterSpacing=10;strokeWidth=1;strokeColor=#6c8ebf;opacity=70;gradientColor=#7ea6e0;" value="" vertex="1">
+          <mxGeometry height="345" width="292.5" x="271.5" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-15" edge="1" parent="1" source="fmehxJq_DwajHRdsBFVi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=open;endFill=0;" target="fmehxJq_DwajHRdsBFVi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font face=&quot;Space Mono&quot;&gt;&lt;b&gt;začni&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="357.75" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-9" edge="1" parent="1" source="fmehxJq_DwajHRdsBFVi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=open;endFill=0;" target="fmehxJq_DwajHRdsBFVi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;strokeWidth=2;verticalAlign=middle;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="&lt;b&gt;vnesi&lt;/b&gt; širino" vertex="1">
+          <mxGeometry height="60" width="146" x="344.75" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-10" edge="1" parent="1" source="fmehxJq_DwajHRdsBFVi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=open;endFill=0;" target="fmehxJq_DwajHRdsBFVi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;strokeWidth=2;verticalAlign=middle;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="&lt;b&gt;vnesi&lt;/b&gt; višino" vertex="1">
+          <mxGeometry height="60" width="146" x="344.75" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-12" edge="1" parent="1" source="fmehxJq_DwajHRdsBFVi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=open;endFill=0;" target="fmehxJq_DwajHRdsBFVi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;strokeWidth=2;verticalAlign=bottom;" value="&lt;b&gt;izračunaj&lt;/b&gt; površino&lt;div&gt;površina = širina × višina&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="243" x="296.25" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-13" edge="1" parent="1" source="fmehxJq_DwajHRdsBFVi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=2;" target="fmehxJq_DwajHRdsBFVi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;strokeWidth=2;verticalAlign=middle;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="&lt;b&gt;izpiši&lt;/b&gt; površino" vertex="1">
+          <mxGeometry height="60" width="146" x="344.75" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="fmehxJq_DwajHRdsBFVi-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font face=&quot;Space Mono&quot;&gt;&lt;b&gt;končaj&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="357.75" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
