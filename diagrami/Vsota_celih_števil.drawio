@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="CP2v6j5oxTMtNOxQDnCE">
-    <mxGraphModel dx="2055" dy="1307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GUBVYXZ3rLsv9slR4l3R-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontSize=15;labelBackgroundColor=none;fontColor=default;" value="&lt;b&gt;DIAGRAM POTEKA&lt;/b&gt; PROTOTIPA PROGRAMSKE APLIKACIJE ZA&amp;nbsp;&lt;div&gt;IZRAČUN VSOTE DVEH CELIH ŠTEVIL&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="600" x="114" y="59" as="geometry" />
+        <mxCell id="GUBVYXZ3rLsv9slR4l3R-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontStyle=0;fontSize=15;labelBackgroundColor=none;fontColor=default;" value="&lt;b&gt;PSEVDOKODA IN DIAGRAM POTEKA&lt;/b&gt; PROTOTIPA PROGRAMSKE APLIKACIJE ZA&amp;nbsp;&lt;div&gt;IZRAČUN VSOTE DVEH CELIH ŠTEVIL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="649" x="89" y="69" as="geometry" />
         </mxCell>
         <mxCell id="oHlQMiuxCPPMfNT4gvcd-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="780" width="465" x="222" y="204" as="geometry" />
+          <mxGeometry height="780" width="465" x="246" y="364" as="geometry" />
         </mxCell>
         <mxCell id="GUBVYXZ3rLsv9slR4l3R-21" parent="oHlQMiuxCPPMfNT4gvcd-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#808080);perimeterSpacing=0;strokeColor=none;glass=0;fontColor=#ffffff;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="586" width="364" y="105" as="geometry" />
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="oHlQMiuxCPPMfNT4gvcd-2" parent="oHlQMiuxCPPMfNT4gvcd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;rotation=-90;fontSize=13;fontColor=light-dark(#000000,#B00D23);" value="Področje interaktivne zanke" vertex="1">
           <mxGeometry height="30" width="275" x="169.5" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="oHlQMiuxCPPMfNT4gvcd-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontSize=9;" value="&lt;div&gt;&lt;b&gt;začni&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ponavljaj dokler&lt;/b&gt;[Zanka: while True:]&lt;br&gt;&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;├── &lt;b&gt;vnesi&lt;/b&gt; [Spremenljivka: prvo_stevilo] = [Spremenljivka: int( input(&quot;Vnesi prvo celo število: &quot;) )]&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;├── &lt;b&gt;vnesi&lt;/b&gt; [Spremenljivka: drugo_stevilo] = [Spremenljivka: int( input(&quot;Vnesi drugo celo število: &quot;) )]&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;├── &lt;b&gt;seštej&lt;/b&gt; [Spremenljivka: vsota_stevil] = [Spremenljivka: prvo_stevilo + drugo_stevilo]&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;├── &lt;b&gt;izpiši&lt;/b&gt; [Izpis: print(&quot;Vsota celih števil je: &quot; + str(vsota))]&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;├── &lt;b&gt;nadaljuj&lt;/b&gt; [Spremenljivka: nadaljuj] = [Spremenljivka: input(&quot;Želiš nadaljevati? (da/ne): &quot;)]&lt;/div&gt;&lt;div&gt;│&lt;/div&gt;&lt;div&gt;└── &lt;b&gt;preveri&lt;/b&gt; [Pogoj: if nadaljuj == &quot;ne&quot;:]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; │&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── [Nadzor: break]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;izpiši&lt;/b&gt; [Izpis: print(&quot;Hvala in nasvidenje!&quot;)]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;končaj&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="657" x="85" y="234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
