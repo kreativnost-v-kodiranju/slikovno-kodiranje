@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="PVlVMn1gwkmsRWttHolN">
+    <mxGraphModel dx="644" dy="395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="SEŠTEVANJE" vertex="1">
+          <mxGeometry height="30" width="111" x="38" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="MNOŽENJE" vertex="1">
+          <mxGeometry height="30" width="111" x="195" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="ODŠTEVANJE" vertex="1">
+          <mxGeometry height="30" width="111" x="386" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="DELJENJE" vertex="1">
+          <mxGeometry height="30" width="111" x="616" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a + b" vertex="1">
+          <mxGeometry height="30" width="60" x="61" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a × b" vertex="1">
+          <mxGeometry height="30" width="60" x="220.5" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a − b" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a &amp;gt; b" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a &amp;lt; b ⇒ a, b = b, a" vertex="1">
+          <mxGeometry height="30" width="159.5" x="361.75" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a / b" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a &amp;gt; b" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a &amp;lt; b ⇒ a, b = b, a" vertex="1">
+          <mxGeometry height="30" width="159.5" x="590.25" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="b = k × a + o" vertex="1">
+          <mxGeometry height="30" width="114" x="616" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="a ∣ b ⇔ b = k × a, o = 0" vertex="1">
+          <mxGeometry height="30" width="201.5" x="572.25" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="k = b // a" vertex="1">
+          <mxGeometry height="30" width="91.5" x="625.75" y="336" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" value="o = b % a = 0" vertex="1">
+          <mxGeometry height="30" width="111" x="617.5" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;endFill=0;startArrow=open;startFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.0095" as="geometry">
+            <Array as="points">
+              <mxPoint x="332.4" y="119" />
+              <mxPoint x="332.4" y="196.2" />
+            </Array>
+            <mxPoint x="400" y="119" as="sourcePoint" />
+            <mxPoint x="355.2" y="196.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5t1VPvCr85UlpxL1Fkv-20" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;defaultLabelBackgroundColor=page;startArrow=none;startFill=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1796" as="geometry">
+            <Array as="points">
+              <mxPoint x="574" y="352.2" />
+              <mxPoint x="574" y="118.2" />
+            </Array>
+            <mxPoint x="606" y="352.2" as="sourcePoint" />
+            <mxPoint x="634" y="118.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
